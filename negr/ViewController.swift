@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
 }
 
-@IBOutlet weak var startGame(_ sender: UIButton) {
+@IBOutlet weak var startGame(  sender: UIButton) { 
     semaforLabel.isHidden = false
     
 
